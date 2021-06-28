@@ -77,7 +77,7 @@ let aa = [
     "Arhajski period, 7-5. v.p.n.e. Karakteristične forme umetnosti su skulpture muških i ženskih figura- kurosi i kore. Nage figure sa rukama uz telo i jednom nogom u iskoraku. Telo kora je prekriveno draperijom. Jače isticanje tema u grnčariji i vaze koje su manje veličine u odnosu na prethodni period. Arhajsko slikarstvo – karakteristična je jasna i ravnomerna boja.",
     "Kurosi i kore, crnofiguralna i crvenofiguralna grnčarija.",
     "Hiton i himation",
-    "Od 500. g.p.n.e. do smrti Aleksandra Velikog Makedonskog 323. G.p.n.e.7. Koliko redova postoji u grčkoj arhitekturi? Navedi njihova imena i odlike Dorski, jonski i korintski. Jonski i korintski stub imaju stopu, stablo i kapitel, dok dorski nema stopu i kracije. Stub je sastavljen iz više delova-tambura.",
+    "Od 500. g.p.n.e. do smrti Aleksandra Velikog Makedonskog 323. G.p.n.e.7",
     "Dorski, jonski i korintski. Jonski i korintski stub imaju stopu, stablo i kapitel, dok dorski nema stopu i kracije. Stub je sastavljen iz više delova-tambura.",
     "Dorski - Partenon, Jonski – Erehtejon, Korintski – Olimpejon",
     "Fidija.",
