@@ -1,0 +1,109 @@
+*{
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);/*cubic-bezier(0.86, 0, 0.07, 1);*/
+    transition-duration:  200ms;
+}
+
+body{
+    font-family:'Lexend', sans-serif;
+}
+
+button{
+    background-color: #1b80f5;
+    color: white;
+    padding: 1rem;
+    margin: 0.2rem;
+    border-radius: 0.5rem;
+    border: none;
+
+    font-size: 24px;
+}
+
+button:hover{
+    filter: brightness(150%) saturate(80%);
+    cursor: pointer;
+}
+
+button:active{
+    filter: brightness(50%) saturate(80%);
+    cursor: pointer;
+}
+
+#da{
+    background-color: rgb(6, 185, 51);
+}
+#ne{
+    background-color: #ac092c;
+}
+
+
+
+.centre-wrapper{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.centre{
+    height: 35rem;
+    width: 30rem;
+    display: block;
+    position: relative;
+    text-align: center;
+}
+
+.donji-normal {
+    display: flex;
+    position: absolute;
+    left: 25%;
+    bottom: 0%;
+    width: 50%;
+    flex-wrap: wrap;
+}
+.donji-normal > * {
+    flex-grow: 1;
+}
+
+.donji-normal>button:first-child {
+    flex-basis: 100%;
+}
+
+
+/* Odgovori i pitanja*/
+#score{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#a {
+    font-size: medium;
+    font-weight: normal;
+}
+
+#q {
+    font-size: x-large;
+    margin-top: 2rem;
+}
+
+.invisible{
+    display: none;
+}
+
+/* score */
+.score{
+    position: absolute;
+    display: block;
+    top: 0%;
+    left: 12.5%;
+    width: 75%;
+}
+
+.score>span:first-child {
+    color:rgb(6, 185, 51);
+    float: left;
+}
+
+.score>span:last-child {
+    color:#ac092c;
+    float: right;
+}
