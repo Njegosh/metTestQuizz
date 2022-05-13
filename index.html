@@ -1,41 +1,55 @@
 <html pallete="orange">
-    <head>
-        <title>ID111 - Quizz</title>
-        <link href="style.css" rel="stylesheet" type="text/css">
-        <script src="js.js"></script>
-        <script src="https://kit.fontawesome.com/444daa6a6a.js" crossorigin="anonymous"></script>
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap" rel="stylesheet"> </head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-    <body onload="init();">
 
-        <div class="centre-wrapper">
-            <div class="centre">
-                <div class="score">
-                    <span>
-                        <span id=good>0</span> <i class="fas fa-check"></i>
-                    </span>
-                    <span id="counter">0</span>/<span id="br">74</span>
-                    <span>
-                        <span id=bad>0</span> <i class="fas fa-times"></i>
-                    </span>
+<head>
+    <title>ID111 - Quizz</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <script src="js.js"></script>
+    <script src="https://kit.fontawesome.com/21bf2c5c9f.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap" rel="stylesheet">
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<body onload="init();">
+
+    <div class="centre-wrapper">
+        <div class="centre">
+            <div class="score">
+                <span>
+                    <span id=good>0</span> <i class="fas fa-check"></i>
+                </span>
+                <span id="counter">0</span>/<span id="br">74</span>
+                <span>
+                    <span id=bad>0</span> <i class="fas fa-times"></i>
+                </span>
+            </div>
+            <h1 id="q">
+                lorem ipsum
+
+            </h1>
+
+            <h2 id="a" class="invisible">
+                Lorem ipsum dolor sit amet abimet olera astra
+            </h2>
+
+            <div class="invisible" id="percentage-window">
+                <div class="red bar" id="progress-bar">
+                    <div class="green bar" id="progress"></div>
                 </div>
-                <h1 id="q">
-                    lorem ipsum
 
-                </h1>
-                
-                <h2 id="a" class="invisible">
-                    Lorem ipsum dolor sit amet abimet olera astra
-                </h2>
+                <h2 id="percentage">100%</h2>
+            </div>
 
-                <div class="donji-normal">
-                    <button id="prikazi" onclick="prikaziOdg();">Odgovor <i class="fas fa-eye"></i></button>
-                    <button id="da" onclick="da();"><i class="fas fa-check"></i></button>
-                    <button id="ne" onclick="ne();"><i class="fas fa-times"></i></button>
-                    </div>
-                </div>
+            <div class="donji-normal" id="ui-1">
+                <button id="prikazi" onclick="prikaziOdg();">Odgovor <i class="fas fa-eye"></i></button>
+                <button id="da" onclick="da();"><i class="fas fa-check"></i></button>
+                <button id="ne" onclick="ne();"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="donji-normal invisible" id="ui-2">
+                <button id="reset" onclick="reset();"><i class="fa-solid fa-rotate-left"></i></button>
             </div>
         </div>
-    </body>
+    </div>
+</body>
+
 </html>

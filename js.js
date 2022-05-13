@@ -1,152 +1,144 @@
 let qq = [
-    "1.Navedi vremenske okvire predmeta AD111 Istorija umetnosti starog i srednjeg veka.",
-    "2.Navedi najmanje tri epohe iz istorije kulture koje su obuhvaćene ovim redmetom.",
-    "3.Šta je karakteristično za arhajsku umetnost?",
-    "4.Navedi najpoznatije artefakte arhajske umetnosti.",
-    "5.Kako se zove haljina i ogrtač koju nose kore, statue devojaka, karakteristične skulpture antičkog perioda?",
-    "6.Koji vremenski period nazivamo periodom klasične grčke umetnosti?",
-    "7.Koliko redova postoji u grčkoj arhitekturi? Navedi njihova imena i odlike",
-    "8.Navedi najpoznatiji hram dorskog, jonskom i korintskog rada?",
-    "9.Kako se zove skulptor koji je radio dekoraciju hrama i skulpturu čuvene Atine Partenos?",
-    "10.Kako se naziva tehnika u kojoj je radjena skulptura Atine Partenos?",
-    "11.Kome je posvećen Partenon na Atinskom Akropolju?",
-    "12.Na kom mestu su Grci uobičajeno podizali hramove?",
-    "13.Kako se zove vrhovni bog grčke mitologije? Navedi imena vrhovnih grčkihbogova.",
-    "14.Navedi najpoznatije skulptore antičke grčke umetnosti, kao i njihova reprezentativna dela.",
-    "15.Šta je to kanon?",
-    "16.Koje su teme činile program metopa Partenona?",
-    "17.Gde je tradicionalno bilo mesto žene u staroj Grčkoj?",
-    "18.Šta znaš o helenizmu?",
-    "19.Kome je posvećen Pergamonski oltar?",
-    "20.Navedi primere helenističke skulpture.",
-    "21.Šta su sve rimljani gradili?",
-    "22.Šta znaš o Trajanovom stubu?",
-    "23.Šta je Panteon?",
-    "24.Šta su terme? Gde se nalaze terme u Beogradu?",
-    "25.Gde se nalazi Dioklecijanova palata?",
-    "26.Šta je to Ara Pacis?",
-    "27.Šta je to gema?",
-    "28.Šta su fajumski portreti i koja je bila njihova namena.",
-    "29.Šta su akvadukti?",
-    "30.Koji imperator ima ključnu ulogu u priznavanju hrišćanstva kao državne religije?",
-    "31.Šta je to judaizam?",
-    "32.Šta znaš o najstarijoj jevrejskoj sinagogi Dura Europosu.",
-    "33.Da li postoje sinagoge u Beogradu i Srbiji?",
-    "34.Šta predstavlja karakteristične oblike vizuelne kulture ranohrišćanskog perioda.",
-    "35.Navedi nekoliko ranohrišćanskih spomenika.",
-    "36.Šta su katakombe?",
-    "37.Šta je to vizantijska vizuelna kultura?",
-    "38.Navedi vremenske okvire vizantijske kulture i umetnosti.",
-    "39.Koja crkva predstavlja simbol vizantijske arhitekture?",
-    "40.Na kom konstruktivnom elementu počiva vizantijska kupola?",
-    "41.Koji car i carica su prikazani na čuvenom ravenskom mozaiku u crkvi San Vitale?",
-    "42.Šta je to ikonokalazam?",
-    "43.Šta je apsida? Šta je časna trpeza?",
-    "44.Kada nastaje islam i ko je osnivač ove religije?",
-    "45.Iz čega se sastoji sveto muslimansko hodočašće?",
-    "46.Šta je džamija?",
-    "47.Da li postoje figuralne predstave u islamskoj umetnosti? Gde se one nalaze?",
-    "48.Šta je mihrab?",
-    "49.Šta je mimbar?",
-    "50.Najpoznatija grobnica islamske arhitekture je...",
-    "51.Kada nastaje i za kog vladara se vezuje karolinška umetnost?",
-    "52.Koji je najpoznatiji arhitektornski spomenik karolinške arhitekture?",
-    "53.Šta znaš o ulozi knjige u karolinškoj umetnosti?",
-    "54.Vremenski okviri Otonske umetnosti",
-    "55.Koja je ključna gradjevina otonskog perioda?",
-    "56.Navedi vremenske okvire romaničke umetnosti",
-    "58. Šta je karakteristično za romaničku umetnost 11. i 12. veka",
-    "59. Navedi poznate romaničke manastire i katedrale u Francuskoj.",
-    "59.5. Najreprezentativnija romanička katedrala u Italji je...",
-    "60. Šta znaš o epohi gotike?",
-    "61.Šta znaš o funkciji gotičke katedrale?",
-    "62.Navedi različite medije u kojima se javlja slika u gotici.",
-    "63.Navedi italijanske umetnike predstavnike gotičkog slikarstva.",
-    "64.Kako se zove jedan od najstarijih hrišćanskih hramova u Srbiji? Kome je posvećen?",
-    "65.Navedi zadužbine Stefana Nemanje.",
-    "66.Navedi imena najstarijih srpskih pisanih i iluminiranih rukopisa?",
-    "68. Koji hram, manastir ili crkva je po tebi najreprezentativniji primer srpske umetnosti i arhitekture 13. ili 14. veka? Zašto.",
-    "69.Nabroj zadužbine kralja Milutina.",
-    "70.Navedi barem dva spomenika takozvane „moravske škole“",
-    "71.Ko je bio ktitor manastira Dečani?"
+    "Šta znači reč renesansa?",
+    "Za koje prostore se vezuje umetnost renesanse? Dvor? Manastir? Grad? Koji je grad važan za nastanak renesansne umetnosti i kulture?",
+    "Šta je karakteristično za arhitekturu renesanse?",
+    "Navedi vodeća imena rane renesanse. ",
+    "Ko je bio Filipo Bruneleski?",
+    "Šta podrazumeva koncept humanizma?",
+    "Šta su osnovni postulati neoplatonističke lepote?",
+    "Šta se u formalnom smislu posebno istražuje u renesansi?",
+    "Ko je bio Sandro Botičeli? Navedi njegove radove. ",
+    "Ko je bio Leonardo da Vinči? Navedi njegova dela. ",
+    "Ko je bio Direr? Šta znači Melanholija?",
+    "Ko je bio Mikelandjelo? Navedi nazive njegovih skulptura. ",
+    "Šta znaš o Mikelandjelu kao slikaru? Koje je njegovo kapitalno slikarsko ostvarenje?",
+    "Navedi važna dela Rafaela.",
+    "Navedite dva umetnika pozne renesanse u Veneciji ",
+    "Šta znaš o Ticijanu, umetniku pozne renesanse? Navedi njegova ključna dela. ",
+    "Navedi osnovne karakteristike manirizma.",
+    "Navedi najmanje tri imena umetnika manirizma. ",
+    "Šta je to figura serpentinata? Navedi ime jednog manirističkog skulptora. ",
+    "Navedi najmanje dva umetnika manirizma.",
+    "Šta označava termin barok? ",
+    "Gde se geografski rasprostire barok? ",
+    "Koje su karakteristike barokne arhitekture? Šta je karakteristično za baroknu crkvu? ",
+    "Šta znaš o baroknom skulptoru Berniniju? Navedi njegove najvažnije skulpture.",
+    "Kako se zovu dva vodeća slikara rimskog baroka?",
+    "Da li postoji recepcija baroka u okviru savremene vizuelne kulture 20. Veka, kako se ona naziva?",
+    "Kakva je funkcija umetnosti i slike u baroku?",
+    "Navedi imena dva slikara francuskog baroka 17. veka. ",
+    "Šta je karakteristično za slikarstvo baroknog iluzionizma? Navedi ključne predstavnike baroknog iluzionizma. ",
+    "Šta je žanr slikarstvo? Koji sve žanr postoji u slikarstvu 17. veka?",
+    "Po čemu je karakterističan slikar Jan Vermer? Koji žanr je definisao njegov slikarski identitet?",
+    "Navedi najmanje jednu sliku čuvenog holandskog slikara Rembranta.",
+    "Kako se zove ključni umetnik flamanskog baroka?",
+    "Ko je bio Frans Hals?",
+    "Kako se zove vodeći dvorski slikar španskog baroka? Navedi njegove ključne radove, slike. ",
+    "Koji vek je obeležila epoha rokokoa?",
+    "Da li je rokoko karakterističan i za stil u arhitekturi? Navedi primer",
+    "Koje su ključne karakteristike piktoralne poetike rokoka?",
+    "Navedi najvažnije umetnike predstavnike rokokoa u francuskom slikarstvu.",
+    "Ko je Vilijam Hogart? Po čemu je on poznat?",
+    "Kako se zovu slike sa predstavama grada Venecije?",
+    "Definiši neoklasicizam. Koji su osnovni principi neoklasicizma prema Vinkelmanovoj teoriji?",
+    "Otkriće kojih gradova je uticalo na procese vraćanja na antičku umetnost u okviru epohe neoklasicizma?",
+    "Navedi imena vodećih neoklasicističkih slikara. ",
+    "Ko je autor slike Smrt Mara? Šta znaš o ovoj slici?",
+    "Kako se zove najpoznatiji skulptor neoklasicizma?",
+    "Napiši sažeto šta je po tebi ključna odlika romantizma i navedi predstavnike?",
+    "Šta je inspirisalo umetnika Ežena Delokro-a da naslika sliku Dante i Vergilije?",
+    "Ko je autor slike Masakar na Hiosu?",
+    "Ko je autor Nage i Obučene Maje?",
+    "Šta znaš o Nazarenima? ",
+    "Navedi vodeće umetnike, engleske pejzažiste romantizma. ",
+    "Navedi još neko delo Franciska Goje",
+    "Kako se zove nemački romantičar slikar pejzaža?",
+    "Kako se zove ključni umetnik realizma?",
+    "Kako se zove umetnik, slikar, autor slike Vagon treće klase?",
+    "Navedi najmanje tri slike Gistava Kurbea. ",
+    "Šta znaš o bratstvu Prerafaelita? ",
+    "Po čemu je karakterističan rad Onore Domije-a?",
+    "Napiši imena dva umetnika 19. veka koje vezujemo za početak medijuma stripa.",
+    "Kako se zove prvi srpski fotograf?",
+    "Kako se zove autor fresaka i ikonostasa Saborne crkve u Beogradu?",
+    "Ko je autor Stematografije?",
+    "Kojim tehnikama je radio Anastas Jovanović?",
+    "Koji su to važni toposi vizuelne kulture 19. veka?",
+    "Navedi nekoliko imena srspkih slikara druge polovine 19. veka."
 ];
 
 let aa = [
-    "Od 500. g.p.n.e. do 1500. G.n.e.",
-    "Antička Grčka, Rim, Jevrejska kultura, vizantijska umetnost, islamska umetnost, romanika, gotika.",
-    "Arhajski period, 7-5. v.p.n.e. Karakteristične forme umetnosti su skulpture muških i ženskih figura- kurosi i kore. Nage figure sa rukama uz telo i jednom nogom u iskoraku. Telo kora je prekriveno draperijom. Jače isticanje tema u grnčariji i vaze koje su manje veličine u odnosu na prethodni period. Arhajsko slikarstvo – karakteristična je jasna i ravnomerna boja.",
-    "Kurosi i kore, crnofiguralna i crvenofiguralna grnčarija.",
-    "Hiton i himation",
-    "Od 500. g.p.n.e. do smrti Aleksandra Velikog Makedonskog 323. G.p.n.e.7",
-    "Dorski, jonski i korintski. Jonski i korintski stub imaju stopu, stablo i kapitel, dok dorski nema stopu i kracije. Stub je sastavljen iz više delova-tambura.",
-    "Dorski - Partenon, Jonski – Erehtejon, Korintski – Olimpejon",
-    "Fidija.",
-    "U hrisoelefantskoj tehnici.",
-    "Posvećen je grčkoj boginji Atini.",
-    "Na svetim brdima i planinama van gradova.",
-    "Vrhovni bog grčke mitologije – Zevs <br> Hera, Posejdon, Had, Atina, Hefest",
-    "Poliklet(Doriforos, Amazonka,hera), Miron(Diskobol), Lisip(Aristotel, Aleksandar Veliki), Praksitel (Afrodita Knidosa, Hermes od Praksitelesa)",
-    "Kanon je prvi poznati tekst u Grčkoj. Napisao ga je Poliklet i zasnovan je na konceptu lepote koja se ogleda u proporcijama ljudskog tela. Visina glave iznosi jednu sedminu visine tela, a šaka jednu desetinu i širina tela u ramenima odgovara širini tri glave. Bitne stavke u kanonu su simetrija proporcija i harmonija.",
-    "Istočne metope – gigantomahija, Zapadne metope – amazonomahija, Južne metope – Kentauromahija, Severne metope – teme iz Trojanskog rata",
-    "Zove se Gynaeceum – spratno odeljenje u kući, gde su odhranjivale decu i radile poslove.",
-    "Helenizam je počeo 323. g.p.n.e., posle smrti Aleksandra Velikog. Obuhvata period antičke istorije koji počinje osvajanjima Aleksandra III Velikog (Aleksandar Makedonski) 334.godine pre nove ere i traje oko tri veka, odnosno do pojave Rimskog Carstva.",
-    "Posvećen je Zevsu u čast pobede nad Galima. Sagradio ga je Eumen II na terasi južno od Atininog hrama.",
-    "Milonska Venera, Nika sa Samotrake, Laokoon i sinovi, Gal na umoru, Samoubistvo Gola, Zevsov žrtvenik.",
-    "Hramove, bazilike, akvadukte, palate, kuće (domusi i insule), teatre, amfiteatre, terme, slavoluke.",
-    "Trajanov stub podignut je u spomen Trajanovih uspeha u Dakiji, mermer, 29m viosk, plitki reljef koji prikazuje Trajanov prelazak Dunava kod Rame.",
-    "Panteon je rimski hram, posvećen svim bogovima. Sagrađen je u 2.v.n.e.",
-    "Terme ili javna kupatila bila su obično u sastavu velikih vila i sadržale su prostorije za kupanje, bazene sa hladnom, mlakom i toplom vodom, svlačionice i biblioteke. U Beogradu se nalaze na prostoru Studentskog trga, akademskog parka i Plato ispred filozofskog fakulteta, u vreme kada su živeli Rimljani, a grad se zvao Singidunum.",
-    "Nalazi se u Splitu.",
-    "Ara Pracis je oltar posvećen miru, zamišljen kao hram svih rimskih bogova. Podignut je u 13. v.p.n.e. na Marsovskom polju, u čast povratka cara iz Španije i Galije – Augustu Mirotrovcu.",
-    "Gema je ukrasni kamen sa urezanom predstavom. Dekoracija može biti ornamentna ili figurativna, ponekad i sa natpisom. Gema je korišćena kao pečat, prsten ili neki drugi deo nakita.",
-    "To su realistični portreti na drvetu koji su slikani u doba helenističkog Egipta. Njihova namena je bila da čuvaju sećanje na umrlog. U izradi je korišćena tehnika Enkaustike-bojeni vosak na drvenoj podlozi.",
-    "Sistemi vodovodnih cevi iz rimskog perioda. Postoje podzemni i nadzemni akvadukti. Kanali koji su služili za dostavljanje vode od izvora do rimskih gradova.",
-    "Konstantin",
-    "Jevrejska religija, vera u jednog boga, bestelesnog, isključivo duhovnog oca svih ljudi.",
-    "Antička sinagoga, u Siriji u Dura-Europosu. O izgradnji sinagoge svedoči aramejski natpis iz 244.godine što je čini najstarijom sinagogom na svetu. Njena struktura je gotovo netaknuta i unutar sinagoge su sačuvane brojne zidne slike. Iskopavanjima su takođe otkrivene veoma važne zidne slike iz bogomolje iz hrišćanskog perioda, crkve koja je postojala na mestu Dura Europasa.",
-    "Postoje, Beogradska sinagoga u ulici Maršala Tolbuhina.",
-    "Sarkofazi i slikarstvo katakombi.",
-    "Ranohrišćanska ikonografija, slikarstvo i freske u Dura Europosu.",
-    "To su podzemne prostorije gde su progonjeni vernici spojili dve svoje potrebe – za ispovedanje vere i sahranjivanje svojih mrtvih u adekvatne grobnice. Sa strana tesnih hodnika nalazili su se useci gde su smeštani pogrebni ostaci i zatvarani pogrebnim pločama.",
-    "To je način na koji su vizantinci definisali prostor i materijalno okruženje. Ona govori o poimanju boga, religija, svesti uopšte, vlasti, moći, monaštva. Primere nalazimo na ulicama, trgovima Carigrada, na monaškim svetim gorama, mestima hodočašća. Slika kaodeo vizantijske vizuelne kulture zastupljena je na novcu, u sklopu religioznih obreda, ikona pri krštenju, venčanju, dnevnoj molitvi, nekoj javnoj ceremoniji.",
-    "330. g.p.n.e. – 1453. G.n.e.",
-    "Crkva Svete Sofije u Istanbulu je simbol vizantijske arhitekture. Nastala je u vreme cara Justinijana, kao delo Anatemija iz Trala i Isidora iz Mileta.",
-    "Na sistemu pandantifa, odnosno sfernih trouglova.",
-    "Justinijan i Teodora",
-    "Ikonoklazam je religiozni pokret zabrane obožavanja slika i ikona. Lav II i Konstantin izdali su seriju dikata protiv obožavanja i posedovanja ikona, da bi zatim Konstantin VI krajem 8.veka uveo opet ikone kao predmet poštovanja.",
-    "Apsida je zadnji, polukružni deo oltara. Apsida simboliše mesto Hristovog rođenja ali i mesto gde je sahranjem. Časna trpeza je najvažniji deo oltarskog prostora na kome se priprema završni čin Evharistije. Simboliše Grob i Presto Gospodnji.",
-    "Njegov osnivač je Muhamed, bogati trgovac iz Meke. U svojoj 40.godini počeo je da ispoveda novu religiju, podstaknut božanskim vizijama. Smatra se da je religija zvanično nastala 610.godine.",
-    "Hodočašće se sastoji iz tri obeda: prvi-Svi hodočasnici najpre odlažu svoju odeću i oblače bele haljine kao znak jednakosti pred Bogom, a zatim obilaze 7 puta oko Ćabe, a svaki put poljube ili barem dotaknu crni kamen koji je uzidan u Ćabi; Drugi- 7 puta trče između dva brežuljka (Safne i Merne) što simbolizuje potragu Hadžere i njenog sina Išmaela; Treće- Hodočasnici odlaze na brdo Arafat, udaljeno nekoliko kilometara od meke, gde obavljaju obred stajanja pred licem Gospodnjim, stoje od podne do zalaska sunca i razmišljaju o Alahu posle čega se vraćaju u Meku gde završavaju hodočašće.",
-    "Islamska bogomolja, mesto klanjanja i zajedničke molitve muslimana.",
-    "Da, u minijaturama, ilustracijama i slikarstvu.",
-    "Niša u zidu džamije koja ukazuje na sveti kamen – kiblu, u kome se muslimani celog sveta okreću u molitvi.",
-    "Propovedaonica (prvi put zabeležena u Medini)",
-    "Tadž Mahal - Indija",
-    "Vezuje se za karla Velikog, nastaje u 8.veku.",
-    "Palatinska kapela u Ahenu.",
-    "Knjiga ima ulogu u promociji učenja, hrišćanstva i standardizacije crkvenog prava.",
-    "10,11.vek",
-    "Benediktanska manastirska crkva svetog Mihajla u Hildeshajmu.",
-    "11. i 12. Vek",
-    "Ekspanzija monaštva, zahvaljujući ekonomskom napretku, političkoj stabilnosti i porastu populacije.",
-    "Crkva posvećena Svetom Petru i Pavlu u Burgundiji. Danas su u ruševinama. ; Crkvu Svete Magdalene u vezleju; Crkva Svetog lazara u Otenu.",
-    "Katedrala kompleksa u Pizi.",
-    "To je umetnost iz perioda kasnog srednjeg veka, umetnički pravac koji je došao posle romanika kraj 12.veka u Francuskoj do kraja 15.veka u srednjoj i severnoj Evropi. Gotika je bila isključivo sakralna umetnost, koja je dala opipljivu težinu rastućoj moći crkve u Rimu.",
-    "Gotička katedrala predstavlja centar duhovnosti gde su se okupljali vernici čak i iz susednih regiona, da bi prisustvovali liturgiji.",
-    "Fresko slikarstvo, funerarna umetnost, nauka, knjige (istorija, filozofija, astronomija, algebra, medicina)",
-    "Đoto-Firenca; Dućo-Sijena.",
-    "Rotonda. Posvećena je Svetom Petru i Pavlu u blizini Novog Pazara. To je bilo srednjovekovno episkopsko sedište i saborno mesto srpskih vladara. Crkva je sagrađena u 8. ili 9. veku, sa napomenom da njeno jezgro čini ranohrišćanska građevina, verovatno iz 6.veka.",
-    "Studenica, Đurđevi stupovi, manastir presvete Bogorodice u Kuršumliji, Hilandar, manastir Svetog Nikole, Manastir Bogorodice Bistričke.",
-    "Miroslavljevo i Vukanovo jevanđelje.",
-    "Oko 1300. godine srpska umetnost u celini potpada pod dominantni uticaj Vizantije. Ulaskom u severnu Makedoniju, Srbi se izlažu snažnom uticaju čiste vizantijske umetnosti. Ponovio se stari proces: pobednici su bili pobeđeni jačom i starijom umetničkom kulturom koju su prihvatili i sa neočekivanom veštinom iskoristili za svoje potrebe.",
-    "Manastir Gračanica, Bogorodica Ljeviška, Manastir Svetog Đorđa.",
-    "Ljubostinja, Ravanica, Lazarica, Manasija, Kalenić",
-    "Stefan Dečanski"
+    "preporod",
+    "Firenca (najvazniji),Venecija i Rim,Italija. Vezuje se za grad i manastir (manje dvor).",
+    "Naglasena propricja, simetrija, geometrija i sladni odnos delova (harmonija), upotreba kruznih oblika, kupola",
+    "Donatelo, Filipo Brunaleski, Djoto, Duco, Boticeli, Filipo Lipi.",
+    "Arhitekta rane renesanse. Poznat po projektovanju kupole Santa Maria Fiore u Firenci.",
+    "Umetnicki pokret gde se istrazuje ljudska figura, dusa, etika, Covek i njegovo blagostanje postaju centralni fokus istrazivanja.",
+    "Unutrasnja lepota, tj. duhovnost",
+    "Prostornost (perspektiva),dusa, simetrije i prisustvo umetnika, anatomija. Veza izmedju coveka i Boga.",
+    "Italijanski umetnik rane renesanse. Poznat je po Primaveri, Radjanje Venere, Mars i Venera, Rodjenje Hrista.",
+    "Italijanski umetnik, arhitekta, inzinjer, inovator. Poznat je po Mona Lizi, Tajna Vecera, Poklonjenje tri mudraca, Vitruvijski covek",
+    "Nemacki renesanski slikar, graficar i teoreticar umetnosti poznat po crtezima i gravurama posebno autoportreta. Melanholija je produzeno stanje tuge, koje je produktivno.",
+    "Italijanski slikar i skulpotor visoke renesanse. David, Pieta, Bahus.",
+    "Vajarski pristup, izrazeni misici (anatomija), kompleksne kompozicije, izvijene figure. Kapitalno ostvarenje je tavanica u Sistinskoj Kapeli.",
+    "Atinska Skola, Madone, Transfiguracija, Autoportret.",
+    "Ticijan, Belini, Djordjone.",
+    "Italijanski umetnik iz Venecije. Najveci renesansni umetnik venecijanse skole. Zemaljska i nebeska ljubav, Uspece Bogorodice, Papa Pavle III sa necacima, Urbinska Venera, Portret Karla V.",
+    "Teznja ka alegoriji, enigmaticnost, izduzene figure, pastelne boje, uznemirene senke.",
+    "Parmidjanino, Tintoreto, El Greko, Pontormo, Bronzino",
+    "Vrsta stila u slikanju i vajarstvu, slicna kontrapostu, ali figura vise ide spiralno. Benvenuto Celini",
+    "Parmidjanino, Tintoreto, El Greko, Bronzino, Pontormo",
+    "Barroco - Nepravilan oblik skoljke (Portugalski) | Barocco - Bizarno, Ekstravagantno",
+    "Zapoceo u 17 veku u Rimu, Rapidno se prosirio u Francusku, severnu Italiju, Spaniju i Portugal, a kasnije u Austriju, Juz. Nemacku i Rusiju.",
+    "Fasade su bogate stupovima, nisama, volutama. Prepoznatljivi elementi su elipsa, konkavnost, konveksnost.  |  Centralni tip, tlocrta, naglasen kupolom.",
+    "Italijanski barokni skulptor i arhitekta. Zacetnik barokne skulpture. David, Apolon i Dafne, Fontana Triton i Fontana Cetri reke.",
+    "Bernini, Boromini, Poco, Karavadjo",
+    "Neobarok (arhitektura), Star Wars, Deep Blue.",
+    "Formiranje dogme, odvajanje protestanske crkve od katolicke. Priblizavanje vere emocijom i likovnim jezikom.",
+    "Pusen, Zorz De La Tur, Klod Loren.",
+    "Cesto slikana arhitektura, arhitektonski elementi kako bi se dobio efekat prostranstva - probijanja zidova. (2D ali zapravo 3D).  |  Pjetro Da Kortone, Poco",
+    "Likovni motiv, tema iz svakodnevnog zivota.  |  Portreti, Grupni Portreti, Scena, Pejzazi, Mrtva priroda. ",
+    "Jan Vermer predstavnik je nizozemskog baroknog slikarstva. Karakterističan je po predstavama svakodnevnog života u enterijeru, po načinu prikazivanja svetlosti (najčešće jedan izvor sa leve strane), koloritu (dominantna plava i žuta boja za akcentuaciju), po alegorijskom i simboličkom prikazivanju motiva, detaljima... Njegove slike pripadaju intimnom žanr slikarstvu. -Istoriski prizori, zanrovi.",
+    "Nocna Straza, Oluja na Galilejskom moru, Čas anatomije doktora Nikolasa Tulpa, Trgovci",
+    "Piter Paul Rubens",
+    "Holandski slikar, radio je zanr scene i portrete. Utiče na stvaranje žanra oslikavanja portreta gde je pozadina zamućena.",
+    "Velaskez. -Portret Huana De Pareja, Las Meninas, Predaja Brede, Portret Pape Inocentija X, Filip IV",
+    "XVIII vek.",
+    "Jeste.  Dvorac Sanusi, Katrainina palata u Carskom selu, Sankt Petersburg",
+    "Piktoralnu poetiku rokokoa karakterišu nežnije linije, svetlije boje i manje napadna dekoracija.",
+    "Anton Vato, Buse i Fragonar.",
+    "Engleski slikar i graficar i satirista. Poznat je po grafikama moralne prirode i stirpovima u novinama. Bračni ugovor, životi prostitutke",
+    "Vedute",
+    "Skup umetnickih pravaca Zapadne Evrope koji su nalazili inspiraciju u klasicnoj umetnosti.  |  Osnovni principi su simetrija, lepota mere, reda i jasnoce.",
+    "Pompeja i Herkulanum.",
+    "Engr, Zak Lui David, Antonio Kanova",
+    "Zak Lui David. Na slici je prikazan francuski revolucionar Mara. Figura Mara je idealizovana, bez bilo kojih necistoca na kozi. Prikazuje detalje rezidencije, dan pre njegove smrti",
+    "Antonio Kanova",
+    "Glavna odlika romantizma je izrazavanje lirskog subjekta, izrazavanje licnosti i osecanja. Teodor Zerko i Vilijam Tarner, Ezen Delakroa.",
+    "Inspirisan Danteovom Bozanskom Komedijom",
+    "Ezen Delakro",
+    "Francisko Goja",
+    "U okviru nemačkog romantizma i nacionalizma razvila se umetnost koja je insistirala na transcedentalnom u umetnosti i na shvatanjima po kojima su priroda i ljudskost nastali kao obeležje božanske projekcije. Grupa koja je dobila pogrdan naziv Nazareni okupila se oko slikara Johana Fridriha Overbeka, a činila su je još i Filip Oto Runge, P. F. Kornelijus i Franc Pfor. Oni su osnovali umetničku zajednicu u Rimu. Njihov rad je bio uperen protiv akademskog klasicizma",
+    "Džon Konstabl i Vilijam Tarner",
+    "Portret porodice Karla IV, San razuma stvara čudovišta, Treći maj 1808., Saturn jede svog sina, Užasi rata (serija grafika)... ",
+    "Kaspar Fridrih David",
+    "Gistav Kurbe",
+    "Onore Domijea",
+    "Sahrana u Ornanu, Tucaci kamena, Okolina Ornana, Odmor posle vecere na Ornanu",
+    "Po mnogo čemu značajne revolucionarne 1848. nastalo je i englesko Bratstvo slikara, pesnika i likovnih kritičara koji su sebe nazvali Pre-Rafaelitima, želeći da podvuku svoje poštovanje prema italijanskoj umetnosti pre Rafaela i manirizma posle njega. Poželeli su da prekinu sa mehaničkim pristupom umetnosti i da joj vrate dubinu i značenje nasuprot površnosti manirizma",
+    "Politicki stripovi",
+    "Teodor Zeriko i Onore Domije",
+    "Prvi srpski fotograf se zove Anastas Jovanovic",
+    "Dimitrije Avramovic",
+    "Autori Stematografije su Hristofor Žefarović i Tomas Mesmer (a knjigu je izvorno objavio pisac Pavle Riter Vitezović na latinskom jeziku)",
+    "Bavio se dagerotipijom, talbotipijom, fotografijom. (kao i litografijom, slikarstvom i primijenjenom umjetnošću)",
+    "????????",
+    "Djordje Krstic,Paja Jovanovic,Uros Predic,Djura Jaksic"
 ];
 
 
 let max;
-let br = 0;
+let br = 1;
 
 let brT = 0;
 let brN = 0;
@@ -154,48 +146,90 @@ let brN = 0;
 var q;
 var a;
 
-var index=0;
+var index = 0;
 
-function init(){
+function init() {
     //var index = Math.round(Math.random()*max);
     max = qq.length;
     q = document.getElementById('q');
     a = document.getElementById("a");
-    a.innerHTML=aa[index];
-    q.innerHTML=qq[index];
+    a.innerHTML = aa[index];
+    q.innerHTML = qq[index];
 
     console.log(index);
 
-    document.getElementById('br').innerHTML=max;
+    document.getElementById('counter').innerHTML = br;
+    document.getElementById('br').innerHTML = max;
 }
 
-function prikaziOdg(){
+function prikaziOdg() {
     var a = document.getElementById('a');
     a.classList.toggle('invisible');
 }
 
-function da(){
-    brT++;
-    br++;
-    dalje();
+function da() {
+    if (br <= max) {
+        brT++;
+        br++;
+        document.getElementById('good').innerHTML = brT;
+        dalje();
+    }
 }
 
-function ne(){
-    brN++;
-    br++;
-    dalje();
+function ne() {
+    if (br <= max) {
+        brN++;
+        br++;
+        document.getElementById('bad').innerHTML = brN;
+        dalje();
+    }
 }
 
-function dalje(){
+function dalje() {
     //var index = Math.round(Math.random()*max);
-    index++;
-    a.innerHTML=aa[index];
-    q.innerHTML=qq[index];
+    if (br <= max) {
+        index++;
+        a.innerHTML = aa[index];
+        q.innerHTML = qq[index];
 
-    console.log(index);
+        console.log(index);
 
-    document.getElementById('good').innerHTML=brT;
-    document.getElementById('bad').innerHTML=brN;
-    document.getElementById('counter').innerHTML=br;
-    document.getElementById('br').innerHTML=max;
+        document.getElementById('counter').innerHTML = br;
+        document.getElementById('br').innerHTML = max;
+    }
+    else {
+        document.getElementById("percentage-window").classList.toggle("invisible");
+
+        var perc = Math.round(brT / max * 100);
+
+        document.getElementById("percentage").innerHTML = perc + "%";
+
+
+
+        var pbar = document.getElementById("progress-bar");
+        var styles = window.getComputedStyle(pbar);
+        var pbarWidth = styles.width.substring(0, styles.width.length - 2);
+
+        document.getElementById("progress").style.width = pbarWidth * (brT / max) + "px";
+
+        console.log(pbarWidth);
+
+
+        document.getElementById("ui-1").classList.toggle("invisible");
+        document.getElementById("ui-2").classList.toggle("invisible");
+    }
+}
+
+function reset(){
+    br = 1;
+    brT = 0;
+    brN = 0;
+    index = 0;
+
+    init();
+    
+    document.getElementById("percentage-window").classList.toggle("invisible");
+    
+    document.getElementById("ui-1").classList.toggle("invisible");
+    document.getElementById("ui-2").classList.toggle("invisible");
 }
