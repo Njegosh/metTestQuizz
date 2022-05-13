@@ -9,7 +9,11 @@ body{
     touch-action: manipulation;
 }
 
-body > * {
+* {
+    touch-action: manipulation;
+}
+
+button {
     touch-action: manipulation;
 }
 
